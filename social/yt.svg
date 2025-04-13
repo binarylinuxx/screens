@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1920"
-   height="1080"
-   viewBox="0 0 1920 1080"
+   width="476.66907"
+   height="102.45178"
+   viewBox="0 0 476.66907 102.45178"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.91666667"
-     inkscape:cx="1080"
-     inkscape:cy="466.90909"
+     inkscape:cx="604.36364"
+     inkscape:cy="-84"
      inkscape:window-width="1892"
      inkscape:window-height="983"
      inkscape:window-x="0"
@@ -35,22 +35,22 @@
   <defs
      id="defs1">
     <rect
-       x="497.45455"
+       x="497.45456"
        y="417.81818"
-       width="577.09091"
+       width="577.09088"
        height="100.36364"
        id="rect4" />
     <rect
        x="506.18182"
        y="421.09091"
        width="576"
-       height="93.818182"
+       height="93.818184"
        id="rect3" />
     <rect
-       x="500.72727"
+       x="500.72726"
        y="418.90909"
-       width="556.36364"
-       height="92.727273"
+       width="556.36365"
+       height="92.727272"
        id="rect2" />
     <inkscape:path-effect
        effect="fillet_chamfer"
@@ -73,7 +73,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-475.12001,-419.50139)">
     <path
        style="fill:#131315;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
