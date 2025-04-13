@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   sodipodi:docname="tg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.91666667"
+     inkscape:cx="1080"
+     inkscape:cy="466.90909"
+     inkscape:window-width="1892"
+     inkscape:window-height="983"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="497.45455"
+       y="417.81818"
+       width="577.09091"
+       height="100.36364"
+       id="rect4" />
+    <rect
+       x="506.18182"
+       y="421.09091"
+       width="576"
+       height="93.818182"
+       id="rect3" />
+    <rect
+       x="500.72727"
+       y="418.90909"
+       width="556.36364"
+       height="92.727273"
+       id="rect2" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,32.072728,0,1 @ F,0,0,1,0,26.618182,0,1 @ F,0,0,1,0,29.89091,0,1 @ F,0,0,1,0,27.709091,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#131315;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="626.18182"
+       height="146.18182"
+       x="475.63635"
+       y="390.54544"
+       ry="0"
+       inkscape:path-effect="#path-effect1"
+       sodipodi:type="rect"
+       d="M 507.70908,390.54544 H 1075.2 a 26.618182,26.618182 45 0 1 26.6182,26.61818 v 89.67273 a 29.89091,29.89091 135 0 1 -29.8909,29.89091 H 503.34544 a 27.709091,27.709091 45 0 1 -27.70909,-27.70909 v -86.4 a 32.072728,32.072728 135 0 1 32.07273,-32.07273 z"
+       transform="matrix(0.76001734,0,0,0.6960899,114.00814,147.9947)" />
+    <text
+       xml:space="preserve"
+       id="text3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'JetBrainsMono Nerd Font';-inkscape-font-specification:'JetBrainsMono Nerd Font';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);fill:#1f2021;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.0015938,0,0,0.99998873,-9.5197501,8.0412313)"><tspan
+         x="497.45508"
+         y="475.2729"
+         id="tspan1">  Telegram</tspan></text>
+  </g>
+</svg>
